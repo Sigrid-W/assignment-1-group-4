@@ -1,0 +1,14 @@
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1\bin\Debug\Assignment 1.exe.config
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1\bin\Debug\Assignment 1.exe
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1\bin\Debug\Assignment 1.pdb
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1\obj\Debug\Assignment 1.exe
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1\obj\Debug\Assignment 1.pdb
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1_Group 4\bin\Debug\Assignment 1.exe.config
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1_Group 4\bin\Debug\Assignment 1.exe
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1_Group 4\bin\Debug\Assignment 1.pdb
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1_Group 4\obj\Debug\Assignment 1.csproj.AssemblyReference.cache
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1_Group 4\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1_Group 4\obj\Debug\Assignment 1.exe
+E:\Documents\School\CPRG-211D\Module-2\Assignment-1\Assignment 1_Group 4\obj\Debug\Assignment 1.pdb
